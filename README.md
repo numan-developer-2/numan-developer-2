@@ -1,51 +1,51 @@
-## Hi there 👋 I'm Muhammad Nouman
+## Hello 👋 I'm Muhammad Nouman
 
-🚀 **AI/ML Engineer | LLMs • RAG • LangChain • FastAPI**
+### AI/ML Engineer | Data Scientist | Python / Software Engineer
 
-I am a passionate **AI/ML Engineer** with hands-on experience in building **production-ready AI systems**, including **LLM-based applications, Retrieval-Augmented Generation (RAG) pipelines, AI agents, and real-time voice-enabled solutions**. I enjoy transforming complex problems into scalable and impactful AI products.
+I am a results-driven **AI/ML Engineer** with strong foundations in **data science and Python-based software engineering**. I have hands-on experience building and deploying **machine learning models, LLM-powered applications, and scalable backend services** for real-world use cases.
 
----
-
-### 🔭 I’m currently working on
-- LLM-powered applications using **LangChain, FAISS, OpenAI & Gemini**
-- **RAG systems** for semantic search and knowledge-based AI
-- **AI agents & voice assistants** with real-time interaction
-- Deploying ML models using **FastAPI & Flask**
+My work focuses on developing **production-ready, maintainable, and performance-oriented solutions**, while following best practices in software engineering and collaborative development.
 
 ---
 
-### 🌱 I’m currently learning
-- Advanced **LLM orchestration & agentic workflows**
-- **Model optimization & evaluation** for real-world deployment
-- **MLOps fundamentals** (scalable ML pipelines & monitoring)
+### 🔍 Professional Expertise
+- Designing and implementing **Machine Learning & Data Science workflows**
+- Building **LLM-based systems** including Retrieval-Augmented Generation (RAG) pipelines
+- Developing **Python APIs and backend services** using FastAPI and Flask
+- Data preprocessing, analysis, visualization, and model evaluation
+- Writing clean, testable, and well-documented code
 
 ---
 
-### 👯 I’m looking to collaborate on
-- Open-source **AI/ML & LLM projects**
-- **RAG, AI agents, and applied NLP/CV systems**
-- Startup or freelance projects involving **AI-driven products**
+### 🛠️ Technical Stack
+**Languages:** Python  
+**ML & Data Science:** Regression, Classification, Feature Engineering, Model Evaluation  
+**Deep Learning:** CNNs, RNNs, LSTMs, Transfer Learning  
+**LLMs & AI:** LangChain, FAISS, RAG, Prompt Engineering (OpenAI, Gemini)  
+**Backend:** FastAPI, Flask, REST APIs  
+**Databases:** SQL, MongoDB  
+**Tools:** Git, GitHub
 
 ---
 
-### 🤔 I’m looking for help with
-- Improving **production-scale AI architectures**
-- Best practices for **LLM evaluation & MLOps**
+### 🤝 Collaboration & Opportunities
+I am open to **full-time, internship, and project-based opportunities** in:
+- AI / Machine Learning Engineering
+- Data Science & Applied Analytics
+- Python & Software Engineering roles
+
+I enjoy working with teams that value **code quality, scalability, and real-world impact**.
+
+---
+📫 Professional Contact
+📧 Email: numanrauf826@gmail.com
+📱 WhatsApp / Phone: +92 326 4466626
+💻 GitHub: https://github.com/numan-developer-2
 
 ---
 
-### 💬 Ask me about
-- Python & Machine Learning
-- Deep Learning (CNNs, RNNs, LSTMs)
-- **LangChain, RAG pipelines & Vector Databases**
-- FastAPI / Flask for ML deployment
-- Prompt Engineering & LLM optimization
-
----
-
-### 📫 How to reach me
-- 📧 Email: **numanrauf826@gmail.com**
-- 💼 GitHub: [github.com/numan-developer-2](https://github.com/numan-developer-2)
+### ⚡ Professional Mindset
+I believe in **continuous learning, clear communication, and building solutions that are reliable in production environments**. I am always open to meaningful technical discussions and collaboration opportunities.
 
 ---
 
