@@ -1,19 +1,66 @@
-## Hi there 👋
+## Hi there 👋 I'm Muhammad Nouman
 
-<!--
-**numan-developer-2/numan-developer-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI/ML Engineer | LLMs • RAG • LangChain • FastAPI**
 
-Here are some ideas to get you started:
+I am a passionate **AI/ML Engineer** with hands-on experience in building **production-ready AI systems**, including **LLM-based applications, Retrieval-Augmented Generation (RAG) pipelines, AI agents, and real-time voice-enabled solutions**. I enjoy transforming complex problems into scalable and impactful AI products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 I’m currently working on
+- LLM-powered applications using **LangChain, FAISS, OpenAI & Gemini**
+- **RAG systems** for semantic search and knowledge-based AI
+- **AI agents & voice assistants** with real-time interaction
+- Deploying ML models using **FastAPI & Flask**
+
+---
+
+### 🌱 I’m currently learning
+- Advanced **LLM orchestration & agentic workflows**
+- **Model optimization & evaluation** for real-world deployment
+- **MLOps fundamentals** (scalable ML pipelines & monitoring)
+
+---
+
+### 👯 I’m looking to collaborate on
+- Open-source **AI/ML & LLM projects**
+- **RAG, AI agents, and applied NLP/CV systems**
+- Startup or freelance projects involving **AI-driven products**
+
+---
+
+### 🤔 I’m looking for help with
+- Improving **production-scale AI architectures**
+- Best practices for **LLM evaluation & MLOps**
+
+---
+
+### 💬 Ask me about
+- Python & Machine Learning
+- Deep Learning (CNNs, RNNs, LSTMs)
+- **LangChain, RAG pipelines & Vector Databases**
+- FastAPI / Flask for ML deployment
+- Prompt Engineering & LLM optimization
+
+---
+
+### 📫 How to reach me
+- 📧 Email: **numanrauf826@gmail.com**
+- 💼 GitHub: [github.com/numan-developer-2](https://github.com/numan-developer-2)
+
+---
+
+### 😄 Pronouns
+He / Him
+
+---
+
+### ⚡ Fun fact
+I enjoy building AI systems that **actually work in production**, not just notebooks 😄
+
+---
+
+⭐ *Always open to learning, collaboration, and building intelligent solutions that create real impact.*
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Muhammad Nouman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:numanrauf826@gmail.com) 
