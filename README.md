@@ -37,7 +37,7 @@ I am open to **full-time, internship, and project-based opportunities** in:
 I enjoy working with teams that value **code quality, scalability, and real-world impact**.
 
 ---
-📫 Professional Contact
+### 📫 Professional Contact
 📧 Email: numanrauf826@gmail.com
 📱 WhatsApp / Phone: +92 326 4466626
 💻 GitHub: https://github.com/numan-developer-2
