@@ -18,11 +18,11 @@ My work focuses on developing **production-ready, maintainable, and performance-
 ---
 
 ### 🛠️ Technical Stack
-**Languages:** Python  
+**Languages:** Python,Javascript,Html/Css
 **ML & Data Science:** Regression, Classification, Feature Engineering, Model Evaluation  
 **Deep Learning:** CNNs, RNNs, LSTMs, Transfer Learning  
 **LLMs & AI:** LangChain, FAISS, RAG, Prompt Engineering (OpenAI, Gemini)  
-**Backend:** FastAPI, Flask, REST APIs  
+**Backend:** FastAPI, Flask, REST APIs ,DJANGO 
 **Databases:** SQL, MongoDB  
 **Tools:** Git, GitHub
 
