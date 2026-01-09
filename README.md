@@ -18,8 +18,7 @@ My work focuses on developing **production-ready, maintainable, and performance-
 ---
 
 ### 🛠️ Technical Stack
-**Languages:** Python,Javascript,Html/Css
-
+**Languages:** Python,Javascript,Html/Css.
 **ML & Data Science:** Regression, Classification, Feature Engineering, Model Evaluation  
 **Deep Learning:** CNNs, RNNs, LSTMs, Transfer Learning  
 **LLMs & AI:** LangChain, FAISS, RAG, Prompt Engineering (OpenAI, Gemini)  
