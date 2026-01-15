@@ -20,18 +20,25 @@ My work focuses on developing **production-ready, maintainable, and performance-
 ### 🛠️ Technical Stack
 **Programming Languages**
 Python, HTML, CSS, SQL
+
 **Web Scraping & Automation**
 Scrapy, BeautifulSoup4, Selenium, Requests
+
 **Data Science & Analytics**
 Pandas, NumPy, Matplotlib, Seaborn, ETL Pipelines, EDA, Feature Engineering
+
 **Machine Learning**
 Scikit-learn, XGBoost, TensorFlow, PyTorch, Prophet, Regression, Classification, Time-Series Forecasting
+
 **AI & LLM Technologies**
 LangChain, FAISS, RAG, OpenAI, Gemini, OpenRouter, Prompt Engineering, NLP
+
 **Backend & APIs**
 FastAPI, Flask, RESTful APIs
+
 **Databases & Tools**
 SQL, Git, GitHub, Docker
+
 **Computer Vision**
 OpenCV, Image Processing
 
