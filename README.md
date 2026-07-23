@@ -1,23 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
 
 <br/>
 
-<img src="./assets/profile-dots.png" width="220" height="220" style="border-radius:50%;" alt="Muhammad Nouman"/>
-
-<br/><br/>
-
 # Muhammad Nouman
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Generative+AI+%7C+RAG+Systems+%7C+Agentic+AI+Engineer;LLM+Application+Architect+%26+Full+Stack+Developer;Building+Production-Grade+AI+Products%2C+Not+Just+Notebooks" alt="Typing SVG" />
+### 🧠 Generative AI Full Stack Engineer &nbsp;|&nbsp; RAG Systems &nbsp;|&nbsp; Agentic AI Engineer
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Production-Grade+RAG+%26+Agentic+AI+Systems;LLM+Application+Architect+%26+Full+Stack+Developer;Turning+AI+Research+Into+Real+Deployed+Products" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/AI%2FML%20Engineer-Generative%20AI%20Specialist-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
+<br/>
 
-<br/><br/>
+![Location](https://img.shields.io/badge/📍_Location-Pakistan-6D28D9?style=for-the-badge&labelColor=1a1a2e)
+![Role](https://img.shields.io/badge/Role-AI%2FML%20%7C%20GenAI%20Engineer-7C3AED?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
 
 <a href="mailto:numanrauf826@gmail.com"><img src="https://img.shields.io/badge/Email-numanrauf826%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.linkedin.com/in/muhammad-nouman-3003773ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
@@ -34,55 +32,75 @@
 
 <br/>
 
+---
+
 ## ⚡ About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif">
+I'm a **Generative AI Full Stack Engineer** specializing in designing, building, and shipping **production-grade AI products** — not research notebooks that never leave a Jupyter environment. My core focus is **Retrieval-Augmented Generation (RAG) systems, Agentic AI architectures, and LLM-powered applications**, backed end-to-end by strong software engineering fundamentals.
 
-I'm a **Generative AI Full Stack Engineer** specializing in designing, building, and deploying **production-grade AI products** — not just research notebooks. My work sits at the intersection of **LLM engineering, Retrieval-Augmented Generation (RAG), Agentic AI systems, and scalable backend architecture**.
+I engineer complete AI pipelines — from **vector retrieval, multi-agent orchestration, and prompt/context design** to **API-first backend services, database architecture, and cloud deployment**. My engineering priorities are always **reliability, latency, security, and real-world scalability**, because a model that only works in a demo isn't actually solving anything.
 
-I engineer end-to-end AI pipelines — from **vector retrieval and multi-agent orchestration** to **API-first backend services and cloud deployment** — with a strong focus on **reliability, latency, security, and real-world scalability**.
+Beyond Generative AI, I have strong foundations across the broader **AI/ML and Data Science stack** — deep learning, computer vision, NLP, and classical ML — which lets me architect systems where LLMs, traditional models, and deterministic backend logic work together instead of forcing everything through a single LLM call.
 
 ```yaml
 role: Generative AI Full Stack Engineer
-focus: RAG Pipelines · Agentic AI · LLM Applications · Scalable Backend Systems
-philosophy: "Ship AI products that survive production, not just demos"
+core_focus: RAG Pipelines · Agentic AI Systems · LLM Applications · Scalable Backends
+engineering_philosophy: "Ship AI products that survive production, not just demos"
+approach: End-to-end ownership — from retrieval architecture to deployment
 ```
 
 **🎯 Open To:**
 - Full-time roles — Generative AI Engineer / AI Full Stack Engineer / ML Engineer
 - Contract & freelance RAG / LLM application development
-- High-impact AI product teams solving real-world problems
+- High-impact AI product teams solving real-world, high-stakes problems
 
 <br/>
+
+---
 
 ## 🧠 Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/>
-
-**AI / LLM Engineering**
+**AI & LLM Engineering**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG%20Systems-9333EA?style=flat-square)
+![OpenAI GPT-4](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-9333EA?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-A855F7?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-7C3AED?style=flat-square)
+![Function Calling](https://img.shields.io/badge/Function%20Calling%20%26%20Tool%20Use-8B5CF6?style=flat-square)
 
-**Deep Learning & NLP**
+**Deep Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![CNNs](https://img.shields.io/badge/CNNs-6D28D9?style=flat-square)
+![LSTMs](https://img.shields.io/badge/LSTMs-7C3AED?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-8B5CF6?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP%20%7C%20NER%20%7C%20Embeddings-6D28D9?style=flat-square)
+
+**NLP**
+
+![NLP Embeddings](https://img.shields.io/badge/NLP%20Embeddings-6D28D9?style=flat-square)
+![Text Classification](https://img.shields.io/badge/Text%20Classification-7C3AED?style=flat-square)
+![Multilingual NLP](https://img.shields.io/badge/Multilingual%20NLP-8B5CF6?style=flat-square)
+![Tokenization](https://img.shields.io/badge/Tokenization-A855F7?style=flat-square)
+![NER](https://img.shields.io/badge/NER-9333EA?style=flat-square)
 
 **Computer Vision**
 
@@ -91,51 +109,84 @@ philosophy: "Ship AI products that survive production, not just demos"
 ![DeepSORT](https://img.shields.io/badge/DeepSORT-7C3AED?style=flat-square)
 ![OCR](https://img.shields.io/badge/OCR-A855F7?style=flat-square)
 
+**Data Tools**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-6D28D9?style=for-the-badge)
+
+![Preprocessing](https://img.shields.io/badge/Preprocessing-6D28D9?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-7C3AED?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8B5CF6?style=flat-square)
+
 **Vector Databases & Retrieval**
 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-4C1D95?style=flat-square&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-1a1a2e?style=flat-square)
 
+![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square)
+![Similarity Search](https://img.shields.io/badge/Similarity%20Search-8B5CF6?style=flat-square)
+![Hybrid Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-A855F7?style=flat-square)
+
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square)
-![Async](https://img.shields.io/badge/Async%20Programming-6D28D9?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square)
+![Async Programming](https://img.shields.io/badge/Async%20Programming-7C3AED?style=flat-square)
+![Error Handling](https://img.shields.io/badge/Error%20Handling-8B5CF6?style=flat-square)
+![API Integration](https://img.shields.io/badge/3rd--Party%20API%20Integration-A855F7?style=flat-square)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Cloud, DevOps & MLOps**
+**Automation**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-6D28D9?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n%20Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6D28D9?style=flat-square)
+![Pipeline Orchestration](https://img.shields.io/badge/Pipeline%20Orchestration-7C3AED?style=flat-square)
+
+**Cloud & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![EC2](https://img.shields.io/badge/AWS%20EC2-6D28D9?style=flat-square)
+![S3](https://img.shields.io/badge/AWS%20S3-7C3AED?style=flat-square)
+![SageMaker](https://img.shields.io/badge/AWS%20SageMaker-8B5CF6?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A855F7?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 <br/>
+
+---
 
 ## 🚀 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **RAG Systems** | ⭐⭐⭐⭐⭐ | End-to-end retrieval pipelines, hybrid search, chunking strategies, re-ranking, vector DB integration (FAISS, ChromaDB, Pinecone) |
+| **RAG Systems** | ⭐⭐⭐⭐⭐ | End-to-end retrieval pipelines, chunking strategies, hybrid search, re-ranking, vector DB integration (FAISS, ChromaDB, Pinecone) |
 | **Agentic AI** | ⭐⭐⭐⭐⭐ | Multi-agent orchestration with LangGraph & CrewAI, tool use, function calling, autonomous task planning |
-| **LLM Application Engineering** | ⭐⭐⭐⭐⭐ | GPT-4, Gemini API integration, prompt engineering, LLM fine-tuning, context management |
-| **NLP** | ⭐⭐⭐⭐ | Embeddings, text classification, multilingual NLP, tokenization, NER |
+| **LLM Application Engineering** | ⭐⭐⭐⭐⭐ | GPT-4 & Gemini API integration, prompt engineering, LLM fine-tuning, context window management |
+| **Backend Engineering** | ⭐⭐⭐⭐⭐ | FastAPI/Flask REST APIs, async architecture, third-party API integration, robust error handling |
+| **NLP** | ⭐⭐⭐⭐ | Embeddings, text classification, multilingual NLP, tokenization, Named Entity Recognition |
 | **Computer Vision** | ⭐⭐⭐⭐ | Object detection (YOLOv8), tracking (DeepSORT), OCR pipelines, image classification |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, LSTMs, Transformers, model training & evaluation |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, LSTMs, Transformers — model training, tuning, and evaluation |
 | **MLOps & Deployment** | ⭐⭐⭐⭐ | Docker containerization, CI/CD pipelines, MLflow tracking, cloud deployment (AWS/GCP/Azure) |
-| **Backend Engineering** | ⭐⭐⭐⭐⭐ | FastAPI/Flask REST APIs, async architecture, third-party API integration, error handling |
+| **Automation** | ⭐⭐⭐⭐ | n8n workflow automation, webhook-driven pipelines, orchestration across services |
 
 <br/>
+
+---
 
 ## 💼 Featured Projects
 
@@ -144,7 +195,7 @@ philosophy: "Ship AI products that survive production, not just demos"
 ![Portfolio Projects](https://img.shields.io/badge/Portfolio%20Projects-Self--Built-6D28D9?style=flat-square)
 ![Client Projects](https://img.shields.io/badge/Client%20Delivered-Production%20Deployed-7C3AED?style=flat-square)
 
-*📌 Full implementation, code, and architecture details available in the linked repositories below.*
+*📌 Full implementation, code, and architecture details are available in the linked repositories below.*
 
 </div>
 
@@ -198,7 +249,7 @@ AI-powered document intelligence pipeline combining OCR, NLP, and LLM post-proce
 
 | Category | Details |
 |---|---|
-| **Stack** | OpenCV, OCR, spaCy/NLP, FastAPI, PostgreSQL |
+| **Stack** | OpenCV, OCR, NLP, FastAPI, PostgreSQL |
 | **Scale** | Processes high-volume document batches with structured extraction |
 | **Performance** | Optimized preprocessing pipeline for improved OCR accuracy |
 | **Security** | Encrypted document storage, access-controlled endpoints |
@@ -234,7 +285,18 @@ Combines YOLOv8 detection with DeepSORT tracking to maintain object identity acr
 
 <br/>
 
+---
+
 ## 🏢 Experience
+
+**Generative AI Intern**
+**Netsol Technologies**
+
+Completed an internship focused on Generative AI, working on real-world LLM-driven use cases within a professional software engineering environment.
+
+`Generative AI` `LLMs` `Python`
+
+<br/>
 
 **AI/ML Engineer** — *Freelance / Project-Based*
 `Present`
@@ -251,41 +313,25 @@ Designing and delivering end-to-end Generative AI solutions for clients — from
 
 <br/>
 
-## 🏆 Achievements
+---
+
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🎓 Academic Excellence | Consistent strong academic performance in AI/CS coursework |
-| 💡 AI Product Builder | Multiple end-to-end AI products built and deployed independently |
-| 🌍 Continuous Learner | Ongoing certifications in Generative AI, RAG, and Cloud AI |
+| Recognition | Provider | Year |
+|---|---|---|
+| 🎓 Generative AI with Large Language Models | DeepLearning.AI / Coursera | — |
+| 💡 Vibe Coding | QubitDynamics | — |
+| 🤖 AI/ML Engineering | Unisoftware | 2025 |
+| 📊 Python for Data Science | Google | 2024 |
+| 🏢 Generative AI Internship | Netsol Technologies | — |
 
 </div>
 
 <br/>
 
-## 📜 Certifications
-
-**AWS**
-
-![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner%2FML-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-6D28D9?style=for-the-badge)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Python%20%2F%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-> *Note: Update badges above with your verified certification names/links.*
-
-<br/>
+---
 
 ## 💻 Coding Profiles
 
@@ -298,9 +344,11 @@ Designing and delivering end-to-end Generative AI solutions for clients — from
 
 </div>
 
-> *Replace usernames above with your actual coding profile links.*
+> *Demo links — replace usernames above with your actual coding profile URLs once ready.*
 
 <br/>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -315,6 +363,8 @@ Designing and delivering end-to-end Generative AI solutions for clients — from
 
 <br/>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -324,6 +374,8 @@ Designing and delivering end-to-end Generative AI solutions for clients — from
 </div>
 
 <br/>
+
+---
 
 ## 📈 Contribution Activity
 
@@ -335,6 +387,8 @@ Designing and delivering end-to-end Generative AI solutions for clients — from
 
 <br/>
 
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -344,6 +398,8 @@ Designing and delivering end-to-end Generative AI solutions for clients — from
 </div>
 
 <br/>
+
+---
 
 ## 🎯 Current Focus
 
@@ -368,6 +424,8 @@ open_to:
 ```
 
 <br/>
+
+---
 
 ## 📬 Connect With Me
 
