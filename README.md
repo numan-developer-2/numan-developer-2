@@ -10,6 +10,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Production-Grade+RAG+%26+Agentic+AI+Systems;LLM+Application+Architect+%26+Full+Stack+Developer;Turning+AI+Research+Into+Real+Deployed+Products" alt="Typing SVG" />
 
+
+
 <br/>
 
 ![Location](https://img.shields.io/badge/📍_Location-Pakistan-6D28D9?style=for-the-badge&labelColor=1a1a2e)
