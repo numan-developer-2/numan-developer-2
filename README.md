@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Muhammad%20Nouman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Full%20Stack%20Engineer%20%7C%20RAG%20%26%20Agentic%20AI%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Generative+AI+%7C+RAG+Systems+%7C+Agentic+AI+Engineer;LLM+Application+Architect+%26+Full+Stack+Developer;Building+Production-Grade+AI+Products%2C+Not+Just+Notebooks" alt="Typing SVG" />
+<img src="./assets/profile-dots.png" width="220" height="220" style="border-radius:50%;" alt="Muhammad Nouman"/>
+
+<br/><br/>
+
+# Muhammad Nouman
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Generative+AI+%7C+RAG+Systems+%7C+Agentic+AI+Engineer;LLM+Application+Architect+%26+Full+Stack+Developer;Building+Production-Grade+AI+Products%2C+Not+Just+Notebooks" alt="Typing SVG" />
 
 <br/><br/>
 
