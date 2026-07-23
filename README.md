@@ -1,101 +1,384 @@
-## Hello 👋 I'm Muhammad Nouman
+<div align="center">
 
-### AI/ML Engineer | Data Scientist | Python / Software Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Muhammad%20Nouman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Full%20Stack%20Engineer%20%7C%20RAG%20%26%20Agentic%20AI%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-I am a results-driven **AI/ML Engineer** with strong foundations in **data science and Python-based software engineering**. I have hands-on experience building and deploying **machine learning models, LLM-powered applications, and scalable backend services** for real-world use cases.
+<br/>
 
-My work focuses on developing **production-ready, maintainable, and performance-oriented solutions**, while following best practices in software engineering and collaborative development.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Generative+AI+%7C+RAG+Systems+%7C+Agentic+AI+Engineer;LLM+Application+Architect+%26+Full+Stack+Developer;Building+Production-Grade+AI+Products%2C+Not+Just+Notebooks" alt="Typing SVG" />
 
----
+<br/><br/>
 
-### 🔍 Professional Expertise
-- Designing and implementing **Machine Learning & Data Science workflows**
-- Building **LLM-based systems** including Retrieval-Augmented Generation (RAG) pipelines
-- Developing **Python APIs and backend services** using FastAPI and Flask
-- Data preprocessing, analysis, visualization, and model evaluation
-- Writing clean, testable, and well-documented code
+<img src="https://img.shields.io/badge/AI%2FML%20Engineer-Generative%20AI%20Specialist-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Location-Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
 
----
+<br/><br/>
 
-### 🛠️ Technical Stack
-**Programming Languages**
-Python, HTML, CSS, SQL
+<a href="mailto:numanrauf826@gmail.com"><img src="https://img.shields.io/badge/Email-numanrauf826%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/muhammad-nouman-3003773ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/numan-developer-2"><img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://wa.me/923264466626"><img src="https://img.shields.io/badge/WhatsApp-Message-9333EA?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e"/></a>
 
-**Web Scraping & Automation**
-Scrapy, BeautifulSoup4, Selenium, Requests
+<br/><br/>
 
-**Data Science & Analytics**
-Pandas, NumPy, Matplotlib, Seaborn, ETL Pipelines, EDA, Feature Engineering
+<img src="https://komarev.com/ghpvc/?username=numan-developer-2&style=for-the-badge&color=8b5cf6&labelColor=1a1a2e" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/numan-developer-2?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Followers"/>
+<img src="https://img.shields.io/github/stars/numan-developer-2?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Stars"/>
 
-**Machine Learning**
-Scikit-learn, XGBoost, TensorFlow, PyTorch, Prophet, Regression, Classification, Time-Series Forecasting
+</div>
 
-**AI & LLM Technologies**
-LangChain, FAISS, RAG, OpenAI, Gemini, OpenRouter, Prompt Engineering, NLP
+<br/>
 
-**Backend & APIs**
-FastAPI, Flask, RESTful APIs
+## ⚡ About Me
 
-**Databases & Tools**
-SQL, Git, GitHub, Docker
+<img align="right" width="380" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif">
+
+I'm a **Generative AI Full Stack Engineer** specializing in designing, building, and deploying **production-grade AI products** — not just research notebooks. My work sits at the intersection of **LLM engineering, Retrieval-Augmented Generation (RAG), Agentic AI systems, and scalable backend architecture**.
+
+I engineer end-to-end AI pipelines — from **vector retrieval and multi-agent orchestration** to **API-first backend services and cloud deployment** — with a strong focus on **reliability, latency, security, and real-world scalability**.
+
+```yaml
+role: Generative AI Full Stack Engineer
+focus: RAG Pipelines · Agentic AI · LLM Applications · Scalable Backend Systems
+philosophy: "Ship AI products that survive production, not just demos"
+```
+
+**🎯 Open To:**
+- Full-time roles — Generative AI Engineer / AI Full Stack Engineer / ML Engineer
+- Contract & freelance RAG / LLM application development
+- High-impact AI product teams solving real-world problems
+
+<br/>
+
+## 🧠 Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+
+<br/>
+
+**AI / LLM Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG%20Systems-9333EA?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-A855F7?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square)
+
+**Deep Learning & NLP**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP%20%7C%20NER%20%7C%20Embeddings-6D28D9?style=flat-square)
 
 **Computer Vision**
-OpenCV, Image Processing
 
+![YOLOv8](https://img.shields.io/badge/YOLOv8-8B5CF6?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![DeepSORT](https://img.shields.io/badge/DeepSORT-7C3AED?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-A855F7?style=flat-square)
 
----
+**Vector Databases & Retrieval**
 
-### 🤝 Collaboration & Opportunities
-I am open to **full-time, internship, and project-based opportunities** in:
-- AI / Machine Learning Engineering
-- Data Science & Applied Analytics
-- Python & Software Engineering roles
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4C1D95?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1a1a2e?style=flat-square)
 
-I enjoy working with teams that value **code quality, scalability, and real-world impact**.
+**Backend & APIs**
 
----
-### 📫 Professional Contact
-📧 Email: numanrauf826@gmail.com
-📱 WhatsApp / Phone: +92 326 4466626
-💻 GitHub: https://github.com/numan-developer-2
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square)
+![Async](https://img.shields.io/badge/Async%20Programming-6D28D9?style=flat-square)
 
----
+**Databases**
 
-### ⚡ Professional Mindset
-I believe in **continuous learning, clear communication, and building solutions that are reliable in production environments**. I am always open to meaningful technical discussions and collaboration opportunities.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+**Cloud, DevOps & MLOps**
 
-### 😄 Pronouns
-He / Him
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6D28D9?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
----
+<br/>
 
-### ⚡ Fun fact
-I enjoy building AI systems that **actually work in production**, not just notebooks 😄
+## 🚀 AI / ML Expertise
 
----
+| Domain | Proficiency | Details |
+|---|---|---|
+| **RAG Systems** | ⭐⭐⭐⭐⭐ | End-to-end retrieval pipelines, hybrid search, chunking strategies, re-ranking, vector DB integration (FAISS, ChromaDB, Pinecone) |
+| **Agentic AI** | ⭐⭐⭐⭐⭐ | Multi-agent orchestration with LangGraph & CrewAI, tool use, function calling, autonomous task planning |
+| **LLM Application Engineering** | ⭐⭐⭐⭐⭐ | GPT-4, Gemini API integration, prompt engineering, LLM fine-tuning, context management |
+| **NLP** | ⭐⭐⭐⭐ | Embeddings, text classification, multilingual NLP, tokenization, NER |
+| **Computer Vision** | ⭐⭐⭐⭐ | Object detection (YOLOv8), tracking (DeepSORT), OCR pipelines, image classification |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, LSTMs, Transformers, model training & evaluation |
+| **MLOps & Deployment** | ⭐⭐⭐⭐ | Docker containerization, CI/CD pipelines, MLflow tracking, cloud deployment (AWS/GCP/Azure) |
+| **Backend Engineering** | ⭐⭐⭐⭐⭐ | FastAPI/Flask REST APIs, async architecture, third-party API integration, error handling |
 
-⭐ *Always open to learning, collaboration, and building intelligent solutions that create real impact.*
+<br/>
 
+## 💼 Featured Projects
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Muhammad Nouman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:numanrauf826@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=numan-developer-2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=numan-developer-2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=numan-developer-2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Portfolio Projects](https://img.shields.io/badge/Portfolio%20Projects-Self--Built-6D28D9?style=flat-square)
+![Client Projects](https://img.shields.io/badge/Client%20Delivered-Production%20Deployed-7C3AED?style=flat-square)
 
-### Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+*📌 Full implementation, code, and architecture details available in the linked repositories below.*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=numan-developer-2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=numan-developer-2&icon=0&color=0)](https://visitcount.itsvg.in)
+<details>
+<summary><b>🧩 Enterprise RAG Knowledge Assistant</b> &nbsp; <img src="https://img.shields.io/badge/Client%20Delivered-8B5CF6?style=flat-square"/></summary>
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Production-grade Retrieval-Augmented Generation system enabling natural-language querying over large, unstructured enterprise document sets with source-grounded, hallucination-resistant responses. Delivered as a client project for real-world production use.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, LangChain, FastAPI, FAISS/Pinecone, OpenAI GPT-4 |
+| **Scale** | Handles multi-thousand document corpora with sub-second retrieval |
+| **Performance** | Optimized chunking + hybrid retrieval for high answer relevance |
+| **Security** | API key vaulting, rate limiting, input sanitization |
+| **Impact** | Reduced manual document search time significantly for end users |
+| **Repository** | 🔗 *[View Repository](#) — link coming soon* |
+
+This system combines dense vector retrieval with re-ranking and prompt-context optimization to deliver accurate, citation-backed answers, deployed behind a FastAPI service layer for real-time production use.
+
+> 💬 *Check the repository above for full source code, architecture diagrams, and implementation details.*
+
+</details>
+
+<details>
+<summary><b>🤖 Multi-Agent Workflow Automation System</b> &nbsp; <img src="https://img.shields.io/badge/Portfolio%20Project-A855F7?style=flat-square"/></summary>
+<br/>
+
+Autonomous multi-agent system using LangGraph and CrewAI to plan, delegate, and execute multi-step business workflows with tool use and function calling.
+
+| Category | Details |
+|---|---|
+| **Stack** | LangGraph, CrewAI, OpenAI Function Calling, n8n, FastAPI |
+| **Scale** | Orchestrates multiple specialized agents across parallel task chains |
+| **Performance** | Asynchronous execution for reduced end-to-end latency |
+| **Security** | Scoped tool permissions, sandboxed execution environments |
+| **Impact** | Automated multi-step operational workflows previously done manually |
+| **Repository** | 🔗 *[View Repository](#) — link coming soon* |
+
+Agents are role-specialized (planner, retriever, executor, validator) and communicate through a shared state graph, enabling reliable multi-step task completion with human-in-the-loop checkpoints.
+
+> 💬 *Check the repository above for full source code, architecture diagrams, and implementation details.*
+
+</details>
+
+<details>
+<summary><b>📄 Intelligent Document Processing & OCR Pipeline</b> &nbsp; <img src="https://img.shields.io/badge/Client%20Delivered-8B5CF6?style=flat-square"/></summary>
+<br/>
+
+AI-powered document intelligence pipeline combining OCR, NLP, and LLM post-processing to extract structured data from unstructured documents. Delivered as a client project for real-world production use.
+
+| Category | Details |
+|---|---|
+| **Stack** | OpenCV, OCR, spaCy/NLP, FastAPI, PostgreSQL |
+| **Scale** | Processes high-volume document batches with structured extraction |
+| **Performance** | Optimized preprocessing pipeline for improved OCR accuracy |
+| **Security** | Encrypted document storage, access-controlled endpoints |
+| **Impact** | Eliminated manual data entry across document-heavy workflows |
+| **Repository** | 🔗 *[View Repository](#) — link coming soon* |
+
+Includes preprocessing (denoising, deskewing), OCR extraction, entity recognition, and LLM-based structured field validation.
+
+> 💬 *Check the repository above for full source code, architecture diagrams, and implementation details.*
+
+</details>
+
+<details>
+<summary><b>🎥 Real-Time Object Detection & Tracking System</b> &nbsp; <img src="https://img.shields.io/badge/Portfolio%20Project-A855F7?style=flat-square"/></summary>
+<br/>
+
+Computer vision system for real-time multi-object detection, tracking, and classification using YOLOv8 and DeepSORT.
+
+| Category | Details |
+|---|---|
+| **Stack** | YOLOv8, DeepSORT, OpenCV, Python |
+| **Scale** | Real-time video stream processing with multi-object tracking |
+| **Performance** | Optimized inference pipeline for low-latency detection |
+| **Security** | Local inference option for privacy-sensitive deployments |
+| **Impact** | Enabled automated visual monitoring without manual review |
+| **Repository** | 🔗 *[View Repository](#) — link coming soon* |
+
+Combines YOLOv8 detection with DeepSORT tracking to maintain object identity across frames, with a modular pipeline for classification extensions.
+
+> 💬 *Check the repository above for full source code, architecture diagrams, and implementation details.*
+
+</details>
+
+<br/>
+
+## 🏢 Experience
+
+**AI/ML Engineer** — *Freelance / Project-Based*
+`Present`
+
+Designing and delivering end-to-end Generative AI solutions for clients — from RAG pipelines and agentic workflows to backend API integration and cloud deployment.
+
+- Built and deployed RAG-based knowledge retrieval systems using LangChain and vector databases
+- Developed agentic AI workflows with LangGraph/CrewAI for multi-step task automation
+- Designed and shipped FastAPI/Flask backend services with production-grade error handling
+- Delivered computer vision pipelines using YOLOv8, DeepSORT, and OCR for detection/tracking use cases
+- Deployed and monitored ML/LLM systems using Docker, MLflow, and cloud platforms (AWS/GCP/Azure)
+
+`Python` `LangChain` `LangGraph` `FastAPI` `RAG` `Agentic AI` `Docker` `AWS`
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🎓 Academic Excellence | Consistent strong academic performance in AI/CS coursework |
+| 💡 AI Product Builder | Multiple end-to-end AI products built and deployed independently |
+| 🌍 Continuous Learner | Ongoing certifications in Generative AI, RAG, and Cloud AI |
+
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+**AWS**
+
+![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner%2FML-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Oracle**
+
+![Oracle Certified](https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-6D28D9?style=for-the-badge)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco-Python%20%2F%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+> *Note: Update badges above with your verified certification names/links.*
+
+<br/>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/numan-developer-2/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/numan-developer-2/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/numan-developer-2)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/numan-developer-2)
+
+</div>
+
+> *Replace usernames above with your actual coding profile links.*
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=numan-developer-2&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=numan-developer-2&theme=radical&hide_border=true&background=0D0221&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numan-developer-2&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=numan-developer-2&theme=radical&no-frame=true&margin-w=10&row=1&column=6"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=numan-developer-2&theme=react-dark&bg_color=0D0221&color=A855F7&line=7C3AED&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/numan-developer-2/numan-developer-2/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Agentic AI architectures (multi-agent memory & planning)
+  - LLM fine-tuning & evaluation frameworks
+  - Scalable MLOps pipelines
+
+building:
+  - Production RAG systems with hybrid retrieval
+  - Autonomous AI agent workflows for business automation
+
+exploring:
+  - Advanced vector search & re-ranking techniques
+  - LLM observability and cost optimization
+
+open_to:
+  - Generative AI Engineer roles
+  - AI Full Stack Engineer positions
+  - High-impact RAG / Agentic AI product teams
+```
+
+<br/>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:numanrauf826@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-nouman-3003773ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/numan-developer-2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Building AI systems that work in production — not just in notebooks."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+
+</div>
