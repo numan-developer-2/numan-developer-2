@@ -8,16 +8,15 @@
 
 ### 🧠 Generative AI Full Stack Engineer &nbsp;|&nbsp; RAG Systems &nbsp;|&nbsp; Agentic AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+Production-Grade+RAG+%26+Agentic+AI+Systems;LLM+Application+Architect+%26+Full+Stack+Developer;Turning+AI+Research+Into+Real+Deployed+Products" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=1100&height=100&lines=Building+Production-Grade+RAG+%26+Agentic+AI+Systems;LLM+Application+Architect+%26+Full+Stack+Developer;Turning+AI+Research+Into+Real+Deployed+Products" alt="Typing SVG" />
+</p>
 
-
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Location-Pakistan-6D28D9?style=for-the-badge&labelColor=1a1a2e)
-![Role](https://img.shields.io/badge/Role-AI%2FML%20%7C%20GenAI%20Engineer-7C3AED?style=for-the-badge&labelColor=1a1a2e)
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Pakistan-6D28D9?style=for-the-badge&labelColor=1a1a2e" alt="Location" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Role-AI%2FML%20%7C%20GenAI%20Engineer-7C3AED?style=for-the-badge&labelColor=1a1a2e" alt="Role" />
+</p>
 
 <a href="mailto:numanrauf826@gmail.com"><img src="https://img.shields.io/badge/Email-numanrauf826%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.linkedin.com/in/muhammad-nouman-3003773ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
