@@ -2,3 +2,13 @@ branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
+
+# Portfolio build and local environment
+/node_modules
+/build
+/coverage
+.env
+.env.*
+/.vercel
+/public/profile.json
+/public/blogs.json
